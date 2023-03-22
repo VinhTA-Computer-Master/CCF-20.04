@@ -1,5 +1,7 @@
 # CCF 20.04
 
+* This is a cloned project from MPSLab-ASU/CCF-20.04 repository where I mainly contributed to.
+
 ## Overview 
 
 CCF (**C**GRA **C**ompilation **F**ramework) is an end-to-end prototype that generates machine code for CGRAs (Coarse-Grained Reconfigurable Arrays) and simulate their performance. Through CCF, users can benchmark how CGRAs accelerate kernels designed for general-purpose applications. Currently, CCF 20.04 can accelerate over //TODO number of loops from three benchmark suites, Parboil, MiBench, and Rodinia. It is named CCF 20.04 because this framework has been built and verified on Ubuntu 20.04. 
